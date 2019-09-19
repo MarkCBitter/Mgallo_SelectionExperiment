@@ -6,7 +6,6 @@
 #All data are subdivded into a Genetics and Phenotypes directory
 
 #The Genetics/ directory contains:
-##VCF/ – a directory containing VCF files from adult founding population (Founders.vcf) and all pooled larval samples.
 ##LarvalPopulations_AlleleFrequencyMatrix.csv – Allele frequency matrix generated from larval sample .vcf files and used to generate PCA figures in manuscript (Figures 3a and Figure 4a)
 ##Pools_ADTableMerged_2.txt – Table containing allelic depth at each variant site in the allele frequency matrix. This is used to generate the .sync files
 ##SyncFiles – Directory containing input files for PoPoolation (outlier loci identification) and  poolFstat 
